@@ -4,7 +4,8 @@ Dribble App Ui Clone
 
 ## Screenshots
 
-![Home Screen](screenshots/s1.jpg)
+<img src="screenshots/s1.jpg" alt="Home Screen" style="width: 300px;">
+
 *App Home Screen*
 
 ## Getting Started
