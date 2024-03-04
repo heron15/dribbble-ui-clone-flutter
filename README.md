@@ -4,7 +4,7 @@ Dribble App Ui Clone
 
 ## Screenshots
 
-<img src="screenshots/s1.jpg" alt="Home Screen" width="720" height="1440">
+<img src="screenshots/s1.jpg" alt="Home Screen" width="300" height="600">
 
 *App Home Screen*
 
